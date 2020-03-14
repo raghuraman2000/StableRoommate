@@ -1,5 +1,5 @@
 # StableRoommate
-This repository contains C++ codes for various functionalities related to the stable roommate problem
+This repository contains C++ codes for various functionalities related to the stable roommate problem.  
 Note: This project was co-authored with www.github.com/Arnhav-Datar/.
 
 ## Solver
@@ -23,7 +23,7 @@ Note: This project was co-authored with www.github.com/Arnhav-Datar/.
         
 ## Test Generators
 Its a sequence of codes which generate different kinds of input:-
-- An input which guarantees O(n^2) time for phase 1
-- An input which guarantees O(n^2) time for phase 2
+- An input which guarantees O(n<sup>2</sup>) time for phase 1
+- An input which guarantees O(n<sup>2</sup>) time for phase 2
 - A random input with complete preference lists
 - A random input with incomplete preference lists
