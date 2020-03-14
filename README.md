@@ -1,5 +1,7 @@
 # StableRoommate
 This repository contains C++ codes for various functionalities related to the stable roommate problem
+Note: This project was co-authored with www.github.com/Arnhav-Datar/.
+
 ## Solver
 - Using the solver compile the solver with the command
 
